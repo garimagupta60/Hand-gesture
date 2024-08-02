@@ -2,6 +2,7 @@
 ipykernel
 matplotlib
 matplotlib-inline
+mediapipe
 nltk
 numpy
 opencv-contrib-python==4.10.0.84
