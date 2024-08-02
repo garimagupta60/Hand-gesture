@@ -1,26 +1,14 @@
 
-ipykernel==6.29.5
-
-matplotlib==3.9.1
-matplotlib-inline==0.1.7
-
-nltk==3.8.1
-
-numpy==2.0.1
+ipykernel
+matplotlib
+matplotlib-inline
+nltk
+numpy
 opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
-
-pandas==2.2.2
-pandas-dq==1.29
-pandas-profiling==3.2.0
-pandocfilters==1.5.1
-
-
-
-scikit-learn==1.5.1
-scipy==1.13.1
-seaborn==0.13.2
-
-streamlit==1.37.0
-
+opencv-python
+pandas
+scikit-learn
+scipy
+seaborn
+streamlit
 
